@@ -9,7 +9,7 @@
 ## 📚 What I am doing & learning:
 - 🌐 Web development
 ## 📫 Reach me:
-- [📧 Email Me](nt1600altis@gmail.com)
+- [📧 Email Me](mailto:nt1600altis@gmail.com)
 - [📸 Instagram](https://www.instagram.com/weichenli05/)
 
 
