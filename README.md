@@ -6,7 +6,7 @@
 ## 👀 What can I do ?
 - 💻C / C++ / Python
 - 📊 Matplotlib, NumPy, Pandas
-## 📚 What I am doing & learning:
+## 📚 What I am doing & learning ?
 - 🌐 Web development
 ## 📫 Reach me:
 - [📧 Email Me](mailto:nt1600altis@gmail.com)
