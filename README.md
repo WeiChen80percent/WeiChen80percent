@@ -4,7 +4,7 @@
 - 👨‍💻 Junior in **CS** & 💼 Double Major in **IBBA**, **NSYSU**
 - 🎨 Former **Art & Publicity Lead**, CS Student Association
 ## 👀 What can I do ?
-- 💻C / C++ / Python
+- 💻 C / C++ / Python
 - 📊 Matplotlib, NumPy, Pandas
 ## 📚 What I am doing & learning ?
 - 🌐 Web development
